@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  ai-assistant:
+    build: .
+    container_name: ai_assistant
+    ports:
+      - "5000:5000"  # Exposer le port 5000

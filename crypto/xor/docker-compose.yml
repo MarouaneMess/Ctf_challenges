@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  xor-challenge:
+    build: .
+    container_name: xor_challenge
+    stdin_open: true
+    tty: true
+    ports:
+      - "5000:5000"  # Exposer le port si nécessaire
+    volumes:
+      - .:/app  # Monter le répertoire courant dans le conteneur

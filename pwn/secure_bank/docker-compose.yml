@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  securebank:
+    build: .
+    container_name: securebank
+    ports:
+      - "1337:1337"  # Exposer le port 1337

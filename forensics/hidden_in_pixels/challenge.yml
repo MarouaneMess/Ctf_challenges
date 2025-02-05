@@ -1,0 +1,6 @@
+name: "Hidden in Pixels"
+author: "M4r0u4n3"
+category: "forensics"
+description: |
+  Can you decode the hidden message and retrieve the flag?
+value: 200

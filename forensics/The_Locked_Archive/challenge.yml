@@ -1,0 +1,9 @@
+name: "The Locked Archive"
+author: "M4r0u4n3"
+category: "forensics"
+description: |
+  We found this encrypted archive (flag.7z) on a suspect's computer.
+  The password seems to be hidden somewhere in this image (key.jpeg). Can you unlock the archive and retrieve the flag?
+hints:
+  - "Examine the image (key.jpeg) carefully for hidden information."
+value: 200

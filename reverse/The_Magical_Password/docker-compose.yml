@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  challenge:
+    build: .
+    container_name: challenge
+    ports:
+      - "4444:4444"  # Exposer le port 4444

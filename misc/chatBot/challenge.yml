@@ -1,0 +1,9 @@
+name: "AI Assistant"
+author: "M4r0u4n3"
+category: "misc"
+description: |
+  Welcome to the AI Assistant! This chatbot is here to help you, but it’s also hiding a secret.
+  Can you figure out the right question or tone to make it reveal the flag?
+hints:
+  - "Try asking for the flag in a friendly and positive way."
+value: 300

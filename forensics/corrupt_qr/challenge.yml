@@ -1,0 +1,6 @@
+name: "Corrupted QR Code"
+author: "M4r0u4n3"
+category: "forensics"
+description: |
+  A QR code was found, but it appears to be corrupted. Can you reconstruct it to get the prize?
+value: 150

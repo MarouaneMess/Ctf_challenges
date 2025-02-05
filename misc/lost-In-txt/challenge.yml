@@ -1,0 +1,9 @@
+name: "The Lost Flag"
+author: "M4r0u4n3"
+category: "misc"
+description: |
+  A text file containing 10,000 lines has been generated. Among these lines, only one contains the flag, but it is encoded.
+  Your mission is to search through the file, find the encoded line, and decode it to reveal the flag.
+hints:
+  - "we can add hint like : Try to use `grep` to search for patterns in the file."
+value: 150

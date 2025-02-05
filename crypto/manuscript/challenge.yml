@@ -1,0 +1,13 @@
+name: "The Lost Manuscript"
+author: "M4r0u4n3"
+category: "crypto"
+value: 200
+description: |
+  An archaeologist discovered an ancient manuscript in a hidden tomb. 
+  The text appears to be encrypted, and the archaeologist believes it holds the key to a long-lost treasure. 
+  Can you decode the manuscript and uncover the secret?
+  The key to unlocking the secret is "ZNAHFPEVCG".
+hints:
+  - "The manuscript was written in a time when Caesar ruled the minds of men."
+  - "The flag is protected by a polyalphabetic cipher. (maybe we can give this hint if they didn't find 'Vigenère cipher')"
+

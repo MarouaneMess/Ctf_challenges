@@ -1,0 +1,9 @@
+name: "Deleted Flag Recovery"
+author: "M4r0u4n3"
+category: "forensics"
+description: |
+  In this challenge, you are tasked with demonstrating your data recovery skills using specialized tools.
+  A disk image is provided, which contains a crucial file that has been deleted. Your goal is to recover this file and find the hidden flag inside it.
+hints:
+  - "Just read the name and the description of the challenge."
+value: 200
